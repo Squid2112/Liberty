@@ -1,7 +1,7 @@
 # The Liberty Project
 
 ## AVAA for SEO
-(**Adaptive Virtual Application Architecture** for Search Engine Optimization)
+(`Adaptive Virtual Application Architecture` for Search Engine Optimization)
 
 ### The Framework Architecture
 
