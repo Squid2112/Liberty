@@ -1,0 +1,16 @@
+[{
+	description:'Test Virtual Mapping',
+	URI:'tests',
+	URL:'',
+	view:'',
+	viewTemplate:'index.cfm',
+	childView:'',
+	childViewTemplate:'index.cfm',
+	assetMapping:'/assets/tests',
+	contentType:'cfm',
+	isConical:0,
+	doRedirect:0,
+	redirectType:'',
+	isDefault:1,
+	Active:1
+}]

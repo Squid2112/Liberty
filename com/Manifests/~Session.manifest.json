@@ -1,0 +1,6 @@
+[{
+	name:'Visitor',
+	type:'component',
+	class:'com.Visitor.VisitorObject',
+	init:true
+}]

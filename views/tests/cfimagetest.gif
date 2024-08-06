@@ -1,0 +1,12 @@
+<cffile action="readbinary" file="#ExpandPath('/')#newsBG.gif" variable="pic"/>
+<cfscript>
+    context = getPageContext();
+    context.setFlushOutput(false);
+    response = context.getResponse().getResponse();
+    out = response.getOutputStream();
+    response.setContentType("image/gif");
+    response.setContentLength(arrayLen(pic));
+    out.write(pic);
+    out.flush();  
+    out.close();
+</cfscript>

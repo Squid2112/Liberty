@@ -1,0 +1,16 @@
+[{
+	file:'/js/jquery-1.5.min.js',
+	description:'JQuery 1.5'
+},{
+	file:'/js/jquery.json-2.2.min.js',
+	description:'JSON plugin for jQuery'
+},{
+	file:'/js/swfobject.js',
+	description:'SWF Objects'
+},{
+	file:'/js/flexpaper_flash.js',
+	description:'SWF Objects'
+},{
+	file:'/js/global.js',
+	description:'Global Javascript'
+}]

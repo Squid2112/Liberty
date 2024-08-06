@@ -1,0 +1,33 @@
+.btnOver { background-color:#FFCC66; }
+.btnOut {	background-color:#BCE2F9; }
+
+span#btnLinks, span#btnSite, span#btnRun {
+	padding: 0px 4px 0px 4px;
+	cursor: pointer;
+	border: #799FB6 1px solid;
+}
+
+div#container {
+	white-space:nowrap;
+}
+
+div#sLinks {
+	border:1px solid #666;
+	width:120px;
+	height:10px;
+	margin-right:5px;
+	float:left;
+	overflow:scroll;
+}
+
+div#sSite {
+	border:1px solid #666;
+	width:auto;
+	float:left;
+}
+
+iframe#fSite {
+	width:10px;
+	height:10px;
+	border:none;
+}

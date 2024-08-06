@@ -1,0 +1,8 @@
+@charset "utf-8";
+html, body { margin:0px; padding:0px; background-color:#d6d1ca; background-position:center top; background-repeat:no-repeat; background-image:url(/assets/img/t_background2.jpg); text-align:center; height:100%; background-attachment:fixed; vertical-align:top; }
+div.outerMain { vertical-align:top; text-align:left; width:990px; height:100%; margin:0px auto 0px auto; }
+div.innerMain { vertical-align:top; text-align:left; height:100%; width:100%; margin:0px; }
+div.header { vertical-align:top; text-align:left; height:100px; width:100%; margin:0px; }
+div.header-logo { width:303px; height:63px; background-image:url(/assets/img/thixo.png); }
+div.header-logo-ftr { width:303px; text-align:center; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-weight:bold; }
+div.mainBody { color:#000; vertical-align:top; text-align:left; width:auto; height:auto; margin:-15px 0px 0px 0px; padding:0px 10px 0px 10px; }
